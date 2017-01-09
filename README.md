@@ -1,3 +1,3 @@
 # OpenEntityMap
 
-Main issue tracker for OpenEntityMap
+Issue tracker for OpenEntityMap
